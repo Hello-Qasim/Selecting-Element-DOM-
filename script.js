@@ -13,7 +13,7 @@ console.log(document.body);
 
 // These above are special kind of elements in which we do not need to use any kind of selector or queryselector .//
 
-// How to select elements from Html or to select the css elements for styling ?//
+// How to select elements from Html, or to select the css elements for styling ?//
 
 document.querySelector(h1); //To select the element from an html
 document.querySelector('.heading'); //To select the class from an html
